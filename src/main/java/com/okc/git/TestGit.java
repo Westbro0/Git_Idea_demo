@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("Good Luck to you!!!");
         System.out.println("Good Luck to everyone!!!");
         System.out.println("I like hotpot!.!");
+        System.out.println("I like hotpot too!.!");
     }
 }
